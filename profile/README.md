@@ -14,7 +14,7 @@
 ## Introduction
 
 We are Mystery Box Games, two Game Dev students with a passion for making video games. 
-We created this organization with the plan of building multiple experiences for players to enjoy.
+We created this organization with the plan of building many different types of games for all kinds of players to enjoy.
 
 ## Daniel McErlean
 
