@@ -16,3 +16,9 @@
 We are Mystery Box Games, two Game Dev students with a passion for making video games. 
 We created this organization with the plan of building multiple experiences for players to enjoy.
 
+## Daniel McErlean
+
+
+
+## Robert Disbrow
+
